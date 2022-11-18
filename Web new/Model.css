@@ -1,0 +1,76 @@
+.box{
+    padding-bottom: 30px;
+    padding-top: 45px;
+    padding-left: 52px;
+    padding-right: 25px;
+   /*padding : 10px 30px 40px 50px; (group pading assigning all at same time) */
+
+   border: 2px solid red;
+   margin: 25px;
+   background-color: chartreuse;
+
+}
+
+.rec{
+    width: 200px;
+    height: 200px;
+    border: 5px solid rebeccapurple;
+    margin: 10px;
+    background-color: aqua;
+}
+
+.et{
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    margin: 10px;
+    
+}
+
+.etr{
+    width: 100px;
+    height: 100px;
+    border: 10px solid blue;
+    margin: 40px;
+    text-align: center;
+
+
+}
+.har{
+    width: 200px;
+    height: 200px;
+    border: 15px solid black;
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+.box{
+    border: 2px solid purple;
+    width: 2oopx;
+    height: 100px;
+    display: inline-block;
+    
+}
+
+.box2{
+    border: 2px solid purple;
+    width: 2oopx;
+    height: 100px;
+    display: inline-block;
+    background-color: aqua;
+}
+
+body{
+    background-image: url('C:\\Users\\91636\\OneDrive\\Desktop\\IV Pics\\Idus TRIP\\IFDUS TRIP\\DSC_2934.JPG');
+    height: 50px;
+    width: 40px;
+}
+
+/* creat rectangl box within box 
+creat rectangle box side
+
+paragraph -java backgrond color
+pragraph  - html background color
+pragraph - css background color
+check how to add backgroiund image */

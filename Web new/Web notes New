@@ -1,0 +1,108 @@
+who invited html ?
+uses/application
+advantage and disadvantages
+y is (web) HTMl
+
+
+
+https://github.com/jaideepanjan/JaideepP.X-workz.git
+
+https://github.com/jaideepanjan/JaideepP.X-workz.git@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
+
+https://github.com/jaideepanjan/JaideepP.X-workz.git@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
+   
+   
+   
+   git init
+   git status
+   git add ./
+   git status
+   git commit -m "Web tec adding HTML files"
+   
+   git status
+   
+   git remote add origin https://github.com/jaideepanjan/JaideepP.X-workz.git
+   git push origin master
+   
+   
+   
+   creat new file index.html
+   do same as agraja done
+  ---------------------------------------------------------- 
+   day 3 web
+   ---------
+   
+   Steps
+   -> open the repositary
+   settings
+   pages``						
+   (github page) 
+   select branch in master and root and save
+   we'll get the url
+   copy or share
+   
+   https://github.com/jaideepanjan/JaideepP.X-workz.git
+   
+   
+   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
+   
+    https://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@github.com/jaideepanjan/JaideepP.X-workz.git
+   
+   
+   
+   
+   
+   
+   Java class
+   
+   ******
+   *
+   *
+   *
+   *
+   
+   
+   
+   *****
+   *****
+   *****
+   *****
+   *****
+   
+   printing int i/j values 
+   eg: 111
+       222
+	   333 
+   and 
+      123
+	  123
+	  123
+
+   print ur name replacing 2
+
+
+
+    eg: 111
+        name name name
+        3 3 3	
+           
+
+         1
+         1 2
+         1 2 3
+         1 2 3 4
+
+          1 2 3 4
+          1 2 3
+          1 2
+          1		  
+   
+   
+   git bash codes:
+   ---------------
+   
+   
+  git add ./
+  git status
+  git commit -m "basic programs"
+  git push https://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@github.com/jaideepanjan/JaideepP.X-workz.git main

@@ -1,0 +1,92 @@
+
+/*Descendant Selector*/
+div p {
+    color: blue;
+
+}
+
+/*child Selector*/
+div > p {
+    color: rgb(43, 226, 76);
+}
+/*Adjacent Sibling Selector*/
+
+div + p {
+     color: brown;
+}
+/*jenaral sibling selecter*/
+div ~ p{
+    color: rgb(10,250,450);
+}
+/*colour property
+   
+
+*/
+
+/*position top, bottom, right, left*/
+
+.ststic{
+    position: relative;
+    left: 10px;
+
+}/*ellinda arta agilla*/
+.relative{
+    top: -240;
+    right: -1000px;
+    position: relative;
+   
+}
+.absolute{
+    position: absolute;
+    left: 100px;
+}
+
+.topleft{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    color: rgb(57, 13, 231);
+}
+
+.imageparent{
+    position: relative;
+}
+img{
+    border-radius: 10%;
+}
+body{
+    margin: 0px;
+}
+.fixed{
+    position:fixed;
+    top: 0%;
+    background-color: aqua;
+}
+.fixed{
+    position:fixed;
+    top: 0%;
+    right: 0%;
+    background-color: aqua;
+}
+.ststic{
+    position: sticky;
+    top: 0;
+    background-color: blue;
+}
+ul{
+    list-style-type: none;
+    color: brown;
+}
+li{
+    padding: 5px;
+    background-color: chartreuse;
+}
+body {
+    background-color: blanchedalmond;
+
+}
+@media screen and (min-width: 280px){
+    body {
+        background-color: aquamarine;
+    }
+}

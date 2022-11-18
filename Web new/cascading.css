@@ -1,0 +1,41 @@
+h1,h3 {
+    color: blue;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+    /*Element selecter*/
+h2 {
+    color: rgb(0, 153, 255);
+    font-size: 150px;
+    
+
+}
+/*class selector*/
+.select {
+    color: rgb(255, 47, 203);
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+/*id Selector*/
+.hedder{
+    color: brown;
+    font-size: 120px;
+}
+.colour{
+    color: aliceblue;
+    font-size: 130px;
+}
+.colourch{
+    color:aqua;
+    font-size: 140px;
+}
+.colour1{
+    color:bisque;
+    font-size: 150px;
+}
+.colour2{
+    color:blueviolet;
+    font-size: 160px;
+}
